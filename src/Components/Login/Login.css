@@ -1,0 +1,47 @@
+.login-content{
+   height: 100vh;
+   color: rgb(255, 150, 173);
+}
+.login{
+    width: 100%;
+    height: 100vh;
+}
+.bg-dark-blue{
+    background-color: #022e57;
+}
+
+.image{
+    background-size: cover;
+    background-image: url('../../assets/imgs/Goals-for-the-new-year-GIF.gif');
+}
+
+input{
+    border-bottom: 1px solid rgb(255, 150, 173);
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-radius: 0%;
+    outline: none;
+    caret-color:rgb(255, 150, 173);
+    color: rgb(255, 150, 173);
+}
+
+.bg-pink{
+   background-color: rgb(255, 150, 173);
+}
+
+.login-btn{
+    width: 100px;
+    border: 1px solid #022e57;
+    border-radius: 20px;
+}
+
+.login-link{
+    color: rgb(255, 150, 173);
+    text-decoration: none;
+}
+
+.login-link:hover{
+   color: rgba(255, 150, 173, 0.5);
+   text-decoration: underline;
+}

@@ -1,0 +1,17 @@
+.home{
+    position: relative;
+    height: 100vh;
+    background-size: cover;
+    background-position: 0 40%;
+    background-image: url('../../assets/imgs/Goals-for-the-new-year-GIF.gif');
+}
+
+.overlay{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(0, 90, 141, 0.8) 0%, rgba(9, 9, 121, 0.1) 35%, rgba(2, 46, 87, 0.8) 100%);
+}
